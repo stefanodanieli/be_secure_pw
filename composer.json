@@ -33,7 +33,7 @@
 		"php": ">= 7.4, < 8.3",
 		"typo3/cms-core": "^11.5 || ^12.4",
 		"typo3/cms-setup": "^11.5 || ^12.4",
-		"typo3/cms-beuser": "^11.5 || ^ 12.4"
+		"typo3/cms-beuser": "^11.5 || ^12.4"
 	},
 	"require-dev": {
 		"phpstan/extension-installer": "^1.1",
